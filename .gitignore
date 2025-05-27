@@ -163,3 +163,4 @@ sample.py
 node_modules
 .ruff_cache
 .hypothesis
+4.2.0rc1
